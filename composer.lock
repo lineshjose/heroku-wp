@@ -197,26 +197,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wpro/"
-        },
-        {
-            "name": "wpackagist-plugin/blue-admin",
-            "version": "16.07.16",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/blue-admin/",
-                "reference": "trunk/"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/blue-admin.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/blue-admin/"
         }
     ],
     "packages-dev": [],
